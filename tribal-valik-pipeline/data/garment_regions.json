@@ -1,0 +1,124 @@
+{
+  "garments": [
+    {
+      "id": "garment01",
+      "image": "images/garment01.jpg",
+      "regions": [
+        {
+          "region_id": "pocket1",
+          "region_image": "images/garment01_pocket1.jpg",
+          "captions": [
+            "square shape",
+            "made of wool",
+            "bright colors"
+          ]
+        },
+        {
+          "region_id": "sleeve1",
+          "region_image": "images/garment01_sleeve1.jpg",
+          "captions": [
+            "embroidered",
+            "vertical stripes",
+            "blue and gold"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "garment02",
+      "image": "images/garment02.jpg",
+      "regions": [
+        {
+          "region_id": "collar1",
+          "region_image": "images/garment02_collar1.jpg",
+          "captions": [
+            "round collar",
+            "red embroidery",
+            "woven pattern"
+          ]
+        },
+        {
+          "region_id": "cuff1",
+          "region_image": "images/garment02_cuff1.jpg",
+          "captions": [
+            "tight fitting",
+            "lined with silk",
+            "decorative buttons"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "garment03",
+      "image": "images/garment03.jpg",
+      "regions": [
+        {
+          "region_id": "hem1",
+          "region_image": "images/garment03_hem1.jpg",
+          "captions": [
+            "geometric trim",
+            "contrasting color",
+            "layered stitching"
+          ]
+        },
+        {
+          "region_id": "panel1",
+          "region_image": "images/garment03_panel1.jpg",
+          "captions": [
+            "central motif",
+            "symmetric design",
+            "earth tones"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "garment04",
+      "image": "images/garment04.jpg",
+      "regions": [
+        {
+          "region_id": "strap1",
+          "region_image": "images/garment04_strap1.jpg",
+          "captions": [
+            "braided strap",
+            "beaded detail",
+            "adjustable length"
+          ]
+        },
+        {
+          "region_id": "panel2",
+          "region_image": "images/garment04_panel2.jpg",
+          "captions": [
+            "tribal symbols",
+            "woven wool",
+            "natural dyes"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "garment05",
+      "image": "images/garment05.jpg",
+      "regions": [
+        {
+          "region_id": "hood1",
+          "region_image": "images/garment05_hood1.jpg",
+          "captions": [
+            "pointed hood",
+            "soft texture",
+            "blue pattern"
+          ]
+        },
+        {
+          "region_id": "lining1",
+          "region_image": "images/garment05_lining1.jpg",
+          "captions": [
+            "quilted lining",
+            "cotton inside",
+            "hidden stitching"
+          ]
+        }
+      ]
+    }
+  ]
+}

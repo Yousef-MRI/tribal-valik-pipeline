@@ -1,0 +1,48 @@
+{
+  "concepts": [
+    {
+      "id": "Square",
+      "description": "A four-sided geometric shape with equal sides and right angles"
+    },
+    {
+      "id": "Wool",
+      "description": "A textile fiber obtained from sheep and used in garment making"
+    },
+    {
+      "id": "Bright",
+      "description": "Having a vivid and intense color appearance"
+    },
+    {
+      "id": "Embroidered",
+      "description": "Decorated with patterns sewn with thread"
+    },
+    {
+      "id": "Striped",
+      "description": "Marked with long bands of contrasting color"
+    },
+    {
+      "id": "BlueAndGold",
+      "description": "A color combination consisting of blue and golden hues"
+    },
+    {
+      "id": "RoundCollar",
+      "description": "A collar with a rounded shape that fits around the neck"
+    },
+    {
+      "id": "Silk",
+      "description": "A fine, strong, soft, and lustrous fiber produced by silkworms"
+    },
+    {
+      "id": "GeometricTrim",
+      "description": "Decorative edging using repeating shapes"
+    },
+    {
+      "id": "TribalSymbols",
+      "description": "Motifs that represent tribal identity or mythology"
+    },
+    {
+      "id": "Quilted",
+      "description": "Fabric sewn with padded layers"
+    }
+  ]
+}
